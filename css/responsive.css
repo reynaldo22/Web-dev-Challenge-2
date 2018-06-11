@@ -25,13 +25,13 @@
     .pop-flex,
     .work-flex {
         -webkit-box-orient: vertical;
-        -webkit-box-direction: normal
+        -webkit-box-direction: normal;
     }
     .row {
-        max-width: 90%
+        max-width: 90%;
     }
     .main-nav {
-        display: none
+        display: none;
     }
     .mobile-main-nav {
         background-color: #333;
